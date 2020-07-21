@@ -1,0 +1,1 @@
+This is just the continuatiion of the first text and understanding how git works.
